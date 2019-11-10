@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/testAnswers/bin/Debug/netcoreapp2.2/testAnswers.deps.json
+/Users/matthewpenning/Desktop/testAnswers/bin/Debug/netcoreapp2.2/testAnswers.runtimeconfig.json
+/Users/matthewpenning/Desktop/testAnswers/bin/Debug/netcoreapp2.2/testAnswers.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/testAnswers/bin/Debug/netcoreapp2.2/testAnswers.dll
+/Users/matthewpenning/Desktop/testAnswers/bin/Debug/netcoreapp2.2/testAnswers.pdb
+/Users/matthewpenning/Desktop/testAnswers/obj/Debug/netcoreapp2.2/testAnswers.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/testAnswers/obj/Debug/netcoreapp2.2/testAnswers.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/testAnswers/obj/Debug/netcoreapp2.2/testAnswers.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/testAnswers/obj/Debug/netcoreapp2.2/testAnswers.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/testAnswers/obj/Debug/netcoreapp2.2/testAnswers.dll
+/Users/matthewpenning/Desktop/testAnswers/obj/Debug/netcoreapp2.2/testAnswers.pdb

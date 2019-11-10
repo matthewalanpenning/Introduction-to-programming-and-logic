@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/stringM/bin/Debug/netcoreapp2.2/stringM.deps.json
+/Users/matthewpenning/Desktop/stringM/bin/Debug/netcoreapp2.2/stringM.runtimeconfig.json
+/Users/matthewpenning/Desktop/stringM/bin/Debug/netcoreapp2.2/stringM.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/stringM/bin/Debug/netcoreapp2.2/stringM.dll
+/Users/matthewpenning/Desktop/stringM/bin/Debug/netcoreapp2.2/stringM.pdb
+/Users/matthewpenning/Desktop/stringM/obj/Debug/netcoreapp2.2/stringM.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/stringM/obj/Debug/netcoreapp2.2/stringM.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/stringM/obj/Debug/netcoreapp2.2/stringM.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/stringM/obj/Debug/netcoreapp2.2/stringM.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/stringM/obj/Debug/netcoreapp2.2/stringM.dll
+/Users/matthewpenning/Desktop/stringM/obj/Debug/netcoreapp2.2/stringM.pdb

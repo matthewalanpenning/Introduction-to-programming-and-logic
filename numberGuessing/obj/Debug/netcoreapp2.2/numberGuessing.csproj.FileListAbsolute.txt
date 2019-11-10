@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/numberGuessing/bin/Debug/netcoreapp2.2/numberGuessing.deps.json
+/Users/matthewpenning/Desktop/numberGuessing/bin/Debug/netcoreapp2.2/numberGuessing.runtimeconfig.json
+/Users/matthewpenning/Desktop/numberGuessing/bin/Debug/netcoreapp2.2/numberGuessing.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/numberGuessing/bin/Debug/netcoreapp2.2/numberGuessing.dll
+/Users/matthewpenning/Desktop/numberGuessing/bin/Debug/netcoreapp2.2/numberGuessing.pdb
+/Users/matthewpenning/Desktop/numberGuessing/obj/Debug/netcoreapp2.2/numberGuessing.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/numberGuessing/obj/Debug/netcoreapp2.2/numberGuessing.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/numberGuessing/obj/Debug/netcoreapp2.2/numberGuessing.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/numberGuessing/obj/Debug/netcoreapp2.2/numberGuessing.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/numberGuessing/obj/Debug/netcoreapp2.2/numberGuessing.dll
+/Users/matthewpenning/Desktop/numberGuessing/obj/Debug/netcoreapp2.2/numberGuessing.pdb

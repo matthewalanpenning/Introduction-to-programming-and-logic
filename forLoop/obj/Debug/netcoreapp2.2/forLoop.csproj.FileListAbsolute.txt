@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/forLoop/bin/Debug/netcoreapp2.2/forLoop.deps.json
+/Users/matthewpenning/Desktop/forLoop/bin/Debug/netcoreapp2.2/forLoop.runtimeconfig.json
+/Users/matthewpenning/Desktop/forLoop/bin/Debug/netcoreapp2.2/forLoop.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/forLoop/bin/Debug/netcoreapp2.2/forLoop.dll
+/Users/matthewpenning/Desktop/forLoop/bin/Debug/netcoreapp2.2/forLoop.pdb
+/Users/matthewpenning/Desktop/forLoop/obj/Debug/netcoreapp2.2/forLoop.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/forLoop/obj/Debug/netcoreapp2.2/forLoop.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/forLoop/obj/Debug/netcoreapp2.2/forLoop.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/forLoop/obj/Debug/netcoreapp2.2/forLoop.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/forLoop/obj/Debug/netcoreapp2.2/forLoop.dll
+/Users/matthewpenning/Desktop/forLoop/obj/Debug/netcoreapp2.2/forLoop.pdb

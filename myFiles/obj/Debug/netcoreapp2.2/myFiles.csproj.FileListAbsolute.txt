@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/myFiles/bin/Debug/netcoreapp2.2/myFiles.deps.json
+/Users/matthewpenning/Desktop/myFiles/bin/Debug/netcoreapp2.2/myFiles.runtimeconfig.json
+/Users/matthewpenning/Desktop/myFiles/bin/Debug/netcoreapp2.2/myFiles.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/myFiles/bin/Debug/netcoreapp2.2/myFiles.dll
+/Users/matthewpenning/Desktop/myFiles/bin/Debug/netcoreapp2.2/myFiles.pdb
+/Users/matthewpenning/Desktop/myFiles/obj/Debug/netcoreapp2.2/myFiles.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/myFiles/obj/Debug/netcoreapp2.2/myFiles.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/myFiles/obj/Debug/netcoreapp2.2/myFiles.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/myFiles/obj/Debug/netcoreapp2.2/myFiles.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/myFiles/obj/Debug/netcoreapp2.2/myFiles.dll
+/Users/matthewpenning/Desktop/myFiles/obj/Debug/netcoreapp2.2/myFiles.pdb

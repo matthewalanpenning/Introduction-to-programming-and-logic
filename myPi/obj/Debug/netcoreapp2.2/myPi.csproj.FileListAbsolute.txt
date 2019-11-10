@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/myPi/bin/Debug/netcoreapp2.2/myPi.deps.json
+/Users/matthewpenning/Desktop/myPi/bin/Debug/netcoreapp2.2/myPi.runtimeconfig.json
+/Users/matthewpenning/Desktop/myPi/bin/Debug/netcoreapp2.2/myPi.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/myPi/bin/Debug/netcoreapp2.2/myPi.dll
+/Users/matthewpenning/Desktop/myPi/bin/Debug/netcoreapp2.2/myPi.pdb
+/Users/matthewpenning/Desktop/myPi/obj/Debug/netcoreapp2.2/myPi.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/myPi/obj/Debug/netcoreapp2.2/myPi.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/myPi/obj/Debug/netcoreapp2.2/myPi.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/myPi/obj/Debug/netcoreapp2.2/myPi.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/myPi/obj/Debug/netcoreapp2.2/myPi.dll
+/Users/matthewpenning/Desktop/myPi/obj/Debug/netcoreapp2.2/myPi.pdb

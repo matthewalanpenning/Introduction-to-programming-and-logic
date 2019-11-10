@@ -1,0 +1,14 @@
+/Users/matthewpenning/Desktop/whatsForLunch/bin/Release/netcoreapp2.2/osx.10.11-x64/libhostpolicy.dylib
+/Users/matthewpenning/Desktop/whatsForLunch/bin/Release/netcoreapp2.2/osx.10.11-x64/libhostfxr.dylib
+/Users/matthewpenning/Desktop/whatsForLunch/bin/Release/netcoreapp2.2/osx.10.11-x64/whatsForLunch
+/Users/matthewpenning/Desktop/whatsForLunch/bin/Release/netcoreapp2.2/osx.10.11-x64/whatsForLunch.deps.json
+/Users/matthewpenning/Desktop/whatsForLunch/bin/Release/netcoreapp2.2/osx.10.11-x64/whatsForLunch.runtimeconfig.json
+/Users/matthewpenning/Desktop/whatsForLunch/bin/Release/netcoreapp2.2/osx.10.11-x64/whatsForLunch.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/whatsForLunch/bin/Release/netcoreapp2.2/osx.10.11-x64/whatsForLunch.dll
+/Users/matthewpenning/Desktop/whatsForLunch/bin/Release/netcoreapp2.2/osx.10.11-x64/whatsForLunch.pdb
+/Users/matthewpenning/Desktop/whatsForLunch/obj/Release/netcoreapp2.2/osx.10.11-x64/whatsForLunch.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/whatsForLunch/obj/Release/netcoreapp2.2/osx.10.11-x64/whatsForLunch.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/whatsForLunch/obj/Release/netcoreapp2.2/osx.10.11-x64/whatsForLunch.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/whatsForLunch/obj/Release/netcoreapp2.2/osx.10.11-x64/whatsForLunch.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/whatsForLunch/obj/Release/netcoreapp2.2/osx.10.11-x64/whatsForLunch.dll
+/Users/matthewpenning/Desktop/whatsForLunch/obj/Release/netcoreapp2.2/osx.10.11-x64/whatsForLunch.pdb

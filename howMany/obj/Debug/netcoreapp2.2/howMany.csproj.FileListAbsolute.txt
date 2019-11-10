@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/howMany/bin/Debug/netcoreapp2.2/howMany.deps.json
+/Users/matthewpenning/Desktop/howMany/bin/Debug/netcoreapp2.2/howMany.runtimeconfig.json
+/Users/matthewpenning/Desktop/howMany/bin/Debug/netcoreapp2.2/howMany.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/howMany/bin/Debug/netcoreapp2.2/howMany.dll
+/Users/matthewpenning/Desktop/howMany/bin/Debug/netcoreapp2.2/howMany.pdb
+/Users/matthewpenning/Desktop/howMany/obj/Debug/netcoreapp2.2/howMany.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/howMany/obj/Debug/netcoreapp2.2/howMany.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/howMany/obj/Debug/netcoreapp2.2/howMany.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/howMany/obj/Debug/netcoreapp2.2/howMany.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/howMany/obj/Debug/netcoreapp2.2/howMany.dll
+/Users/matthewpenning/Desktop/howMany/obj/Debug/netcoreapp2.2/howMany.pdb

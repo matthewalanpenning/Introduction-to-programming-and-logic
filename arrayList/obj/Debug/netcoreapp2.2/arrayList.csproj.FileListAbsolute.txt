@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/arrayList/bin/Debug/netcoreapp2.2/arrayList.deps.json
+/Users/matthewpenning/Desktop/arrayList/bin/Debug/netcoreapp2.2/arrayList.runtimeconfig.json
+/Users/matthewpenning/Desktop/arrayList/bin/Debug/netcoreapp2.2/arrayList.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/arrayList/bin/Debug/netcoreapp2.2/arrayList.dll
+/Users/matthewpenning/Desktop/arrayList/bin/Debug/netcoreapp2.2/arrayList.pdb
+/Users/matthewpenning/Desktop/arrayList/obj/Debug/netcoreapp2.2/arrayList.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/arrayList/obj/Debug/netcoreapp2.2/arrayList.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/arrayList/obj/Debug/netcoreapp2.2/arrayList.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/arrayList/obj/Debug/netcoreapp2.2/arrayList.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/arrayList/obj/Debug/netcoreapp2.2/arrayList.dll
+/Users/matthewpenning/Desktop/arrayList/obj/Debug/netcoreapp2.2/arrayList.pdb

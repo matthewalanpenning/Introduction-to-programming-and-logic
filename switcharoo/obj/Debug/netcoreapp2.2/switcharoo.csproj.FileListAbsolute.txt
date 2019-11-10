@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/switcharoo/bin/Debug/netcoreapp2.2/switcharoo.deps.json
+/Users/matthewpenning/Desktop/switcharoo/bin/Debug/netcoreapp2.2/switcharoo.runtimeconfig.json
+/Users/matthewpenning/Desktop/switcharoo/bin/Debug/netcoreapp2.2/switcharoo.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/switcharoo/bin/Debug/netcoreapp2.2/switcharoo.dll
+/Users/matthewpenning/Desktop/switcharoo/bin/Debug/netcoreapp2.2/switcharoo.pdb
+/Users/matthewpenning/Desktop/switcharoo/obj/Debug/netcoreapp2.2/switcharoo.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/switcharoo/obj/Debug/netcoreapp2.2/switcharoo.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/switcharoo/obj/Debug/netcoreapp2.2/switcharoo.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/switcharoo/obj/Debug/netcoreapp2.2/switcharoo.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/switcharoo/obj/Debug/netcoreapp2.2/switcharoo.dll
+/Users/matthewpenning/Desktop/switcharoo/obj/Debug/netcoreapp2.2/switcharoo.pdb

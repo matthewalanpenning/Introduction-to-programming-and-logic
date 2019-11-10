@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/whatsForLunch/bin/release/netcoreapp2.2/whatsForLunch.deps.json
+/Users/matthewpenning/Desktop/whatsForLunch/bin/release/netcoreapp2.2/whatsForLunch.runtimeconfig.json
+/Users/matthewpenning/Desktop/whatsForLunch/bin/release/netcoreapp2.2/whatsForLunch.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/whatsForLunch/bin/release/netcoreapp2.2/whatsForLunch.dll
+/Users/matthewpenning/Desktop/whatsForLunch/bin/release/netcoreapp2.2/whatsForLunch.pdb
+/Users/matthewpenning/Desktop/whatsForLunch/obj/release/netcoreapp2.2/whatsForLunch.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/whatsForLunch/obj/release/netcoreapp2.2/whatsForLunch.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/whatsForLunch/obj/release/netcoreapp2.2/whatsForLunch.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/whatsForLunch/obj/release/netcoreapp2.2/whatsForLunch.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/whatsForLunch/obj/release/netcoreapp2.2/whatsForLunch.dll
+/Users/matthewpenning/Desktop/whatsForLunch/obj/release/netcoreapp2.2/whatsForLunch.pdb

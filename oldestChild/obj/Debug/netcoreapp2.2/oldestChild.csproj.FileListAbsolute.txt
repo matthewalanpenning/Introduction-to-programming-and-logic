@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/oldestChild/bin/Debug/netcoreapp2.2/oldestChild.deps.json
+/Users/matthewpenning/Desktop/oldestChild/bin/Debug/netcoreapp2.2/oldestChild.runtimeconfig.json
+/Users/matthewpenning/Desktop/oldestChild/bin/Debug/netcoreapp2.2/oldestChild.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/oldestChild/bin/Debug/netcoreapp2.2/oldestChild.dll
+/Users/matthewpenning/Desktop/oldestChild/bin/Debug/netcoreapp2.2/oldestChild.pdb
+/Users/matthewpenning/Desktop/oldestChild/obj/Debug/netcoreapp2.2/oldestChild.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/oldestChild/obj/Debug/netcoreapp2.2/oldestChild.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/oldestChild/obj/Debug/netcoreapp2.2/oldestChild.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/oldestChild/obj/Debug/netcoreapp2.2/oldestChild.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/oldestChild/obj/Debug/netcoreapp2.2/oldestChild.dll
+/Users/matthewpenning/Desktop/oldestChild/obj/Debug/netcoreapp2.2/oldestChild.pdb

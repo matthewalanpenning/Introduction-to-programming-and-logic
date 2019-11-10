@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/makingDecisions/bin/Debug/netcoreapp2.2/makingDecisions.deps.json
+/Users/matthewpenning/Desktop/makingDecisions/bin/Debug/netcoreapp2.2/makingDecisions.runtimeconfig.json
+/Users/matthewpenning/Desktop/makingDecisions/bin/Debug/netcoreapp2.2/makingDecisions.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/makingDecisions/bin/Debug/netcoreapp2.2/makingDecisions.dll
+/Users/matthewpenning/Desktop/makingDecisions/bin/Debug/netcoreapp2.2/makingDecisions.pdb
+/Users/matthewpenning/Desktop/makingDecisions/obj/Debug/netcoreapp2.2/makingDecisions.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/makingDecisions/obj/Debug/netcoreapp2.2/makingDecisions.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/makingDecisions/obj/Debug/netcoreapp2.2/makingDecisions.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/makingDecisions/obj/Debug/netcoreapp2.2/makingDecisions.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/makingDecisions/obj/Debug/netcoreapp2.2/makingDecisions.dll
+/Users/matthewpenning/Desktop/makingDecisions/obj/Debug/netcoreapp2.2/makingDecisions.pdb

@@ -1,0 +1,11 @@
+/Users/matthewpenning/Desktop/inputTest/bin/Debug/netcoreapp2.2/inputTest.deps.json
+/Users/matthewpenning/Desktop/inputTest/bin/Debug/netcoreapp2.2/inputTest.runtimeconfig.json
+/Users/matthewpenning/Desktop/inputTest/bin/Debug/netcoreapp2.2/inputTest.runtimeconfig.dev.json
+/Users/matthewpenning/Desktop/inputTest/bin/Debug/netcoreapp2.2/inputTest.dll
+/Users/matthewpenning/Desktop/inputTest/bin/Debug/netcoreapp2.2/inputTest.pdb
+/Users/matthewpenning/Desktop/inputTest/obj/Debug/netcoreapp2.2/inputTest.csprojAssemblyReference.cache
+/Users/matthewpenning/Desktop/inputTest/obj/Debug/netcoreapp2.2/inputTest.csproj.CoreCompileInputs.cache
+/Users/matthewpenning/Desktop/inputTest/obj/Debug/netcoreapp2.2/inputTest.AssemblyInfoInputs.cache
+/Users/matthewpenning/Desktop/inputTest/obj/Debug/netcoreapp2.2/inputTest.AssemblyInfo.cs
+/Users/matthewpenning/Desktop/inputTest/obj/Debug/netcoreapp2.2/inputTest.dll
+/Users/matthewpenning/Desktop/inputTest/obj/Debug/netcoreapp2.2/inputTest.pdb
